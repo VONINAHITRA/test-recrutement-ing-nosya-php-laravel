@@ -1,0 +1,14 @@
+.section-form{
+	margin-left: 0%;
+}
+.title-top{
+	background-color: #00b0d3;
+	color: #fff;
+	text-align: center;
+}
+.title-letter{
+	font-size: 45px;
+	text-align: center;
+    float: center;
+    width: 100%; text-transform: uppercase;
+}
